@@ -1,10 +1,5 @@
 ---
-layout: default
-title: "Home"
----
+ title: Hello! 
+ ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+ This blog is for sci-fi book news, facts, and reviews!
