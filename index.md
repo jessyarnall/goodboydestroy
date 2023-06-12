@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Hello! 
 ---
 
-here's some cool text
+This blog is for sci-fi book news, facts, and reviews!
